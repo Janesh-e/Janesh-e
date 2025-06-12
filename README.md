@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F9FF&center=true&vCenter=true&width=435&lines=Hello+there!+I'm+Janesh+👋;" alt="Typing SVG" />
+  <img src="https://github-readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00F9FF&center=true&vCenter=true&width=435&lines=Hello+there!+I'm+Janesh+👋" alt="Typing SVG" />
 </p>
 
 Welcome to my GitHub profile!
