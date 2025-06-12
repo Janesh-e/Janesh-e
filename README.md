@@ -1,6 +1,9 @@
-# 👋 Hello there, I'm Janesh! 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F9FF&center=true&vCenter=true&width=435&lines=Hello+there!+I'm+Janesh+👋;" alt="Typing SVG" />
+</p>
 
 Welcome to my GitHub profile!
+
 
 <!--
 **Janesh-e/Janesh-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
