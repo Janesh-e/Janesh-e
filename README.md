@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github-readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00F9FF&center=true&vCenter=true&width=435&lines=Hello+there!+I'm+Janesh+👋" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://github-readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00F9FF&center=true&vCenter=true&width=435&lines=Hello+there!+I'm+Janesh+👋)](https://git.io/typing-svg)
+
 
 Welcome to my GitHub profile!
 
