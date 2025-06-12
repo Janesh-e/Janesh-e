@@ -1,5 +1,4 @@
-[![Typing SVG](https://github-readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=00F9FF&center=true&vCenter=true&width=435&lines=Hello+there!+I'm+Janesh+👋)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+There!+I'm+Janesh+👋)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile!
 
