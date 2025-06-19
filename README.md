@@ -1,6 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+There!+I'm+Janesh+👋)](https://git.io/typing-svg)
+---
 
-Welcome to my GitHub profile!
+I'm a Computer Science undergraduate specializing in **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
+
+My interest in AI/ML began when I realized how quickly it's evolving, solving complex problems that once required extensive human effort. From automation to real-time decision-making, it’s reshaping the future, and that potential is what drives me. I believe it's essential not just to use these technologies, but to truly understand how they work, and build better ones.
+
+Over time, I’ve developed strong skills in building predictive models, analyzing data, and applying machine learning to real-world problems. My primary interest lies in how AI/ML can create intelligent systems in areas like **smart education**, **computer vision**, and **scientific research**.
+
+While web development isn't my natural habitat, I still make it work, often with a little help from tools like **Lovable.ai** for frontend and **ChatGPT** for backend logic (yes, seriously 😄). My focus remains on using tech in meaningful ways, and AI/ML is the space where I aim to make the biggest impact.
+
+---
 
 ## 🚀 Tech Stack
 
