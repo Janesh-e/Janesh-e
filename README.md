@@ -49,6 +49,8 @@ While web development isn't my natural habitat, I still make it work, often with
 
 </p>
 
+## 📊 Github Stats
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Janesh-e&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Janesh-e&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
